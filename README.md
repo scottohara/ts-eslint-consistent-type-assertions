@@ -1,4 +1,6 @@
-# Isolated reproduction for issue <tbd>
+# Isolated reproduction for issue 10463
+
+https://github.com/typescript-eslint/typescript-eslint/issues/10463
 
 ```
 npm i
